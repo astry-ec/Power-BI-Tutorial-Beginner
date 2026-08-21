@@ -32,7 +32,7 @@ c. The file will be loaded in Navigator pane as below. We can click the table na
 <p>&nbsp;</p>
 <img width="899" height="710" alt="image" src="https://github.com/user-attachments/assets/a607da0e-40cd-4b38-9c90-c87e1a2730d8" />
 <p>&nbsp;</p>
-d. You will notice the data is loaded in the Data panel, in the right side.
+d. You will notice the data is loaded in the Data panel, in the right side. We call the loaded data as Recruitment_Data table.
 <p>&nbsp;</p>
 <img width="249" height="523" alt="image" src="https://github.com/user-attachments/assets/150af89d-3109-42e4-989d-cbee3e273a8c" />
 <p>&nbsp;</p>
@@ -64,4 +64,16 @@ CALCULATE (
 <p>&nbsp;</p>
 <img width="896" height="251" alt="image" src="https://github.com/user-attachments/assets/fc9a1ab5-7f7f-4b0a-9e2a-d7f3ff5f3437" />
 <p>&nbsp;</p>
+c. Hire Rate
+
+```text
+Hire Rate = DIVIDE([Total Hired], [Total Applicants])
+```
+<p>&nbsp;</p>
+<img width="876" height="187" alt="image" src="https://github.com/user-attachments/assets/08246b1f-36d6-4ef7-a811-779e774e94d6" />
+<p>&nbsp;</p>
+
+After creating all measures data, we can find the measures in Recruitment_Data Table
+<img width="341" height="464" alt="image" src="https://github.com/user-attachments/assets/9767ddbe-34d6-4529-a3aa-aac1413546c8" />
+
 
