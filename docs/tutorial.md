@@ -43,7 +43,7 @@ Power BI uses DAX (Data Analysis Expressions), a formula language designed for d
 
 In this tutorial, we will learn basic DAX calculations that we need to build our dashboard.
 
-Go to **Modeling** -> **New Measure**. You can directly copy the formula below
+Go to **Modeling** -> **New Measure**. We will create 3 measures for this dashboard. You can directly copy the formula below into "measure" pane
 
 a. Total Applicants
 ```text
