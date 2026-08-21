@@ -37,3 +37,5 @@ d. You will notice the data is loaded in the Data panel, in the right side.
 <img width="249" height="523" alt="image" src="https://github.com/user-attachments/assets/150af89d-3109-42e4-989d-cbee3e273a8c" />
 <p>&nbsp;</p>
 
+### 3. Create your first DAX measures
+
