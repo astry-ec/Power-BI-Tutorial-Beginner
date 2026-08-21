@@ -43,7 +43,7 @@ Power BI uses DAX (Data Analysis Expressions), a formula language designed for d
 
 In this tutorial, we will learn basic DAX calculations that we need to build our dashboard.
 Go to **Modeling** -> **New Measure**
-<p>&nbsp;</p>
+
 a. Total Applicants
 ```text
 Total Applicants = DISTINCTCOUNT(Recruitment_Data[ApplicationID])
