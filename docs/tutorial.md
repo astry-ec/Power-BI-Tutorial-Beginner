@@ -17,3 +17,23 @@ Before we begin this tutorial, make sure you have:
 - Locate the "tutorial recruitment data.xlsx" file
 - Download the file
 
+### 2. Import the data into Power BI
+
+a. From "Home", find the "Get Data" and click Excel Workbook
+<p>&nbsp;</p>
+<img width="445" height="570" alt="image" src="https://github.com/user-attachments/assets/27e187e7-085e-4fd6-8a81-ca896ce71632" />
+<p>&nbsp;</p>
+b. Find the "tutorial recruitment data.xlsx" in your local folder
+<p>&nbsp;</p>
+<img width="756" height="480" alt="image" src="https://github.com/user-attachments/assets/644afc18-c1fa-461c-aa44-a4124ea362f9" />
+<p>&nbsp;</p>
+c. The file will be loaded in Navigator pane as below. We can click the table name and check the data inside the table. Tick table "Recruitment Data".
+  We don't need to change any data from the source, we just need to click "Load".
+<p>&nbsp;</p>
+<img width="899" height="710" alt="image" src="https://github.com/user-attachments/assets/a607da0e-40cd-4b38-9c90-c87e1a2730d8" />
+<p>&nbsp;</p>
+d. You will notice the data is loaded in the Data panel, in the right side.
+<p>&nbsp;</p>
+<img width="249" height="523" alt="image" src="https://github.com/user-attachments/assets/150af89d-3109-42e4-989d-cbee3e273a8c" />
+<p>&nbsp;</p>
+
