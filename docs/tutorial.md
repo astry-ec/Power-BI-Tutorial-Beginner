@@ -77,4 +77,5 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 <img width="341" height="464" alt="image" src="https://github.com/user-attachments/assets/9767ddbe-34d6-4529-a3aa-aac1413546c8" />
 <p>&nbsp;</p>
 
-
+### 4. Create Visualizations
+There are a lot of chart types provided by Power BI. In this tutorial, We will create Card,  
