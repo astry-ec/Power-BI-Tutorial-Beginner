@@ -53,6 +53,7 @@ Total Applicants = DISTINCTCOUNT(Recruitment_Data[ApplicationID])
 <img width="900" height="183" alt="image" src="https://github.com/user-attachments/assets/88b7bd1d-2eb2-464e-a555-de23b2b0bca0" />
 <p>&nbsp;</p>
 b. Total Hired
+
 ```text
 Total Hired = 
 CALCULATE (
