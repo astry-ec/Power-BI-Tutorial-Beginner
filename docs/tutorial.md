@@ -42,6 +42,7 @@ d. You will notice the data is loaded in the Data panel, in the right side.
 Power BI uses DAX (Data Analysis Expressions), a formula language designed for data analysis. Some values required for our analysis are not directly available in the raw data. Therefore, we need to perform calculations to get the required values.
 
 In this tutorial, we will learn basic DAX calculations that we need to build our dashboard.
+
 Go to **Modeling** -> **New Measure**
 
 a. Total Applicants
