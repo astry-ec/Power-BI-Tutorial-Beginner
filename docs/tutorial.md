@@ -72,8 +72,9 @@ Hire Rate = DIVIDE([Total Hired], [Total Applicants])
 <p>&nbsp;</p>
 <img width="876" height="187" alt="image" src="https://github.com/user-attachments/assets/08246b1f-36d6-4ef7-a811-779e774e94d6" />
 <p>&nbsp;</p>
-
 After creating all measures data, we can find the measures in Recruitment_Data Table
+<p>&nbsp;</p>
 <img width="341" height="464" alt="image" src="https://github.com/user-attachments/assets/9767ddbe-34d6-4529-a3aa-aac1413546c8" />
+<p>&nbsp;</p>
 
 
