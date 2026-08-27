@@ -163,17 +163,18 @@ In this part, we will learn how to format the dashboard page and its visualizati
 The dashboard page has default aspect ration of 16:9 (1920 x 1080). However, if our visualizations require more space for our visualizations, we customize the page dimensions. 
 
 Default size
+<p>&nbsp;</p>
 <img width="401" height="640" alt="image" src="https://github.com/user-attachments/assets/c28ef192-1953-4b06-b2ab-413d5ef82265" />
 <p>&nbsp;</p>
 Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
-<img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/ff67dac2-7643-40bd-8450-4488d33ec809" />
 <p>&nbsp;</p>
+<img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/ff67dac2-7643-40bd-8450-4488d33ec809" />
 
 #### 2. Format Visual
 Power BI provides various options for formatting visualizations. In this tutorial, we will focus on formatting the legend, title and X-axis and Y-axis labels for Clustered Column Chart.
 
 - Legend
-- <p>&nbsp;</p>
+<p>&nbsp;</p>
 There are several options for positioning the legend in a visualizations. In this chart, we select Top right. We can also format the font and color, but for now we will leave them as they are
 <img width="1005" height="607" alt="image" src="https://github.com/user-attachments/assets/7095a4a5-d11f-4287-b966-339970d4fdd5" />
 <p>&nbsp;</p>
@@ -187,7 +188,6 @@ To make the chart easier to understand, we need to use clear and readable title.
 In this chart, we will add title for X-axis and change maximum number of Y-axis
 <img width="1008" height="657" alt="image" src="https://github.com/user-attachments/assets/bbdd1247-596a-45f8-834d-e605b21d7609" />
 <img width="1008" height="557" alt="image" src="https://github.com/user-attachments/assets/4ce7f49c-d9af-4c9c-8f40-6e11776d6ac0" />
-<p>&nbsp;</p>
 
 #### 3. Create Slicer
 Slicer is one of visualizations which can be functioned as a filter of the page. 
