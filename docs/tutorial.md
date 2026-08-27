@@ -142,12 +142,16 @@ We have created visualizations, and to make the dashboard more engaging and dyna
 In this part, we will learn how to format the dashboard page and its visualizations. In addition, we will also learn to add slicers to make dashboard filtering easier.
 
 #### 1. Format Page
+
 The dashboard page has default size 16:9 (1920 x 1080). However, if our visualizations need more than default page size, we are able to adjust the page size based on our needs. 
 
 Default size
+
 <img width="401" height="640" alt="image" src="https://github.com/user-attachments/assets/c28ef192-1953-4b06-b2ab-413d5ef82265" />
 
+
 Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
+
 <img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="362" height="664" alt="image" src="https://github.com/user-attachments/assets/3d6242fb-6b4e-441e-8192-6c1fff5ef2ea" />
 
 
