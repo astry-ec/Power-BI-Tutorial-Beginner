@@ -152,7 +152,8 @@ Default size
 
 Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
 
-<img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="362" height="664" alt="image" src="https://github.com/user-attachments/assets/3d6242fb-6b4e-441e-8192-6c1fff5ef2ea" />
+<img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/ff67dac2-7643-40bd-8450-4488d33ec809" />
+
 
 
 
