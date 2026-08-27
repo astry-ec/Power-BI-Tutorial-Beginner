@@ -257,7 +257,7 @@ This step is optional. You can add a background shape to give your dashboard a w
 <p>&nbsp;</p>
 
 
-
+**We have finished creating the beginner-level Power BI dashboard. We hope you enjoyed the process.**
 
 
 
