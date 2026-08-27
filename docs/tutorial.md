@@ -156,6 +156,23 @@ Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
 
 #### 2. Format Visual
 
+Power BI provides various options for formatting visualizations. In this tutorial, we will focus on formatting the legend, title and X-axis and Y-axis labels for Clustered Column Chart.
+
+- Legend
+There are several options for positioning the legend in a visualizations. In this chart, we select Top right. We can also format the font and color, but for now we will leave them as they are
+<img width="1005" height="607" alt="image" src="https://github.com/user-attachments/assets/7095a4a5-d11f-4287-b966-339970d4fdd5" />
+
+- Title
+To make the chart easier to understand, we need to use clear and readable title. In this chart, we simply remove the underscore (_) from Job_Title in the title and subtitle.
+<img width="1008" height="834" alt="image" src="https://github.com/user-attachments/assets/0010f0a5-290d-40ae-9bb2-103160b8f8c6" />
+
+- X-axis and Y-axis Labels
+
+In this chart, we will add title for X-axis and change maximum number of Y-axis
+<img width="1008" height="657" alt="image" src="https://github.com/user-attachments/assets/bbdd1247-596a-45f8-834d-e605b21d7609" />
+<img width="1008" height="557" alt="image" src="https://github.com/user-attachments/assets/4ce7f49c-d9af-4c9c-8f40-6e11776d6ac0" />
+
+
 #### 3. Create Slicer
 #### 4. Dashboard Page Finishing
 Add Title
