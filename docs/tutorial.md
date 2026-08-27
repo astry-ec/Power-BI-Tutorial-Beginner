@@ -81,7 +81,6 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 
 ### 4. Create Visualizations
 There are a lot of chart types provided by Power BI. In this tutorial, We will create 5 visualizations. 
-<p>&nbsp;</p>
 
 #### 1. Card Visualizations
 A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate.
@@ -97,7 +96,6 @@ full documentation of Card Visualizations : https://learn.microsoft.com/en-us/po
 <img width="1060" height="619" alt="image" src="https://github.com/user-attachments/assets/d29d0584-44a9-4bde-bfc6-638cb356d550" />
 <p>&nbsp;</p>
 - Card visual appears with the 3 measures added.
-<p>&nbsp;</p>
 
 #### 2. Column Chart Visualizations
 Column charts display data as vertical bars that can be grouped by category. Power BI offers several types of column charts. In this tutorial, we will use a *Clustered column chart* to display the Total Applicants and Total Hired Employees by Job Category.
@@ -110,7 +108,6 @@ Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/
 - Drag Job_Title to X-Axis. Then, Total Applicants and Total Hire to Y-Axis.
 <p>&nbsp;</p>
 <img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
-<p>&nbsp;</p>
 
 #### 3. Pie Chart Visualizations
 <p>&nbsp;</p>
