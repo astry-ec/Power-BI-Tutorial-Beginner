@@ -143,7 +143,7 @@ In this part, we will learn how to format the dashboard page and its visualizati
 
 #### 1. Format Page
 
-The dashboard page has default size 16:9 (1920 x 1080). However, if our visualizations need more than default page size, we are able to adjust the page size based on our needs. 
+The dashboard page has default aspect ration of 16:9 (1920 x 1080). However, if our visualizations require more space for our visualizations, we customize the page dimensions. 
 
 Default size
 
@@ -154,14 +154,11 @@ Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
 
 <img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/ff67dac2-7643-40bd-8450-4488d33ec809" />
 
-
-
-
-
 #### 2. Format Visual
+
 #### 3. Create Slicer
 #### 4. Dashboard Page Finishing
-
+Add Title
 
 
 
