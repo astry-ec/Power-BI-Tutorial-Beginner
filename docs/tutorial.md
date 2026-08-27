@@ -122,7 +122,6 @@ Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/pag
 - Drag Source_Name to Legend field. Then, Total Applicants to Values field.
 <p>&nbsp;</p>
 <img width="842" height="493" alt="image" src="https://github.com/user-attachments/assets/be169867-8329-439e-b583-58e782842743" />
-<p>&nbsp;</p>
 
 #### 4. Line Chart Visualizations
 A line chart displays data changes over time. In this tutorial, we will use data on the total number of applicants of each month.
