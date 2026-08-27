@@ -249,11 +249,11 @@ Select all the text, then choose the desired font size.
 - Add rectangle shapes to organize and separate the visualizations.
 <p>&nbsp;</p>
 This step is optional. You can add a background shape to give your dashboard a webpage-like appearance and choose any color you prefer.
-<img width="1502" height="932" alt="image" src="https://github.com/user-attachments/assets/dcf76e81-0934-412a-8ab2-5054a148d47e" />
+<img width="1202" height="932" alt="image" src="https://github.com/user-attachments/assets/dcf76e81-0934-412a-8ab2-5054a148d47e" />
 <p>&nbsp;</p>
 - Select a theme from the View pane. You can choose any theme you prefer.
 <p>&nbsp;</p>
-<img width="1530" height="947" alt="image" src="https://github.com/user-attachments/assets/4c528bb1-2027-481d-889b-bb9a14af415a" />
+<img width="1230" height="947" alt="image" src="https://github.com/user-attachments/assets/4c528bb1-2027-481d-889b-bb9a14af415a" />
 <p>&nbsp;</p>
 
 
