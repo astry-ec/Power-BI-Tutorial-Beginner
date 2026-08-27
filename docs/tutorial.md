@@ -82,6 +82,7 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 ### 4. Create Visualizations
 There are a lot of chart types provided by Power BI. In this tutorial, We will create 5 visualizations. 
 <p>&nbsp;</p>
+
 #### 1. Card Visualizations
 A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate.
 <p>&nbsp;</p>
@@ -97,6 +98,7 @@ full documentation of Card Visualizations : https://learn.microsoft.com/en-us/po
 <p>&nbsp;</p>
 - Card visual appears with the 3 measures added.
 <p>&nbsp;</p>
+
 #### 2. Column Chart Visualizations
 Column charts display data as vertical bars that can be grouped by category. Power BI offers several types of column charts. In this tutorial, we will use a *Clustered column chart* to display the Total Applicants and Total Hired Employees by Job Category.
 Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/column-charts-report-builder
@@ -109,6 +111,7 @@ Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/
 <p>&nbsp;</p>
 <img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
 <p>&nbsp;</p>
+
 #### 3. Pie Chart Visualizations
 <p>&nbsp;</p>
 A pie chart displays data as a proportion of a metric. In this tutorial, we will use the proportion of total applicants to job vacancy sources as the metric.
@@ -123,6 +126,7 @@ Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/pag
 <p>&nbsp;</p>
 <img width="842" height="493" alt="image" src="https://github.com/user-attachments/assets/be169867-8329-439e-b583-58e782842743" />
 <p>&nbsp;</p>
+
 #### 4. Line Chart Visualizations
 A line chart displays data changes over time. In this tutorial, we will use data on the total number of applicants of each month.
 <p>&nbsp;</p>
@@ -140,6 +144,7 @@ Full documentation of Line Chart : https://learn.microsoft.com/en-us/power-bi/pa
 <p>&nbsp;</p>
 <img width="991" height="495" alt="image" src="https://github.com/user-attachments/assets/ff14fec9-744f-4734-aef6-d4e3b9569ae4" />
 <p>&nbsp;</p>
+
 #### 5. Table Visualizations
 A table visualization is the most straightforward and flexible visual. It looks exactly like a standard table consisting of columns and rows, and, any necessary columns can be added. 
 Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop
@@ -152,10 +157,12 @@ Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/po
 <p>&nbsp;</p>
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
 <p>&nbsp;</p>
+
 ### 5. Format Page and Visualizations
 We have created visualizations, and to make the dashboard more engaging and dynamic, we will explore the formatting features in Power BI.
 In this part, we will learn how to format the dashboard page and its visualizations. In addition, we will also learn to add slicers to make dashboard filtering easier.
 <p>&nbsp;</p>
+
 #### 1. Format Page
 <p>&nbsp;</p>
 The dashboard page has default aspect ration of 16:9 (1920 x 1080). However, if our visualizations require more space for our visualizations, we customize the page dimensions. 
@@ -166,6 +173,7 @@ Default size
 Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
 <img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="366" height="492" alt="image" src="https://github.com/user-attachments/assets/ff67dac2-7643-40bd-8450-4488d33ec809" />
 <p>&nbsp;</p>
+
 #### 2. Format Visual
 Power BI provides various options for formatting visualizations. In this tutorial, we will focus on formatting the legend, title and X-axis and Y-axis labels for Clustered Column Chart.
 
