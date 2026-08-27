@@ -80,7 +80,7 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 <p>&nbsp;</p>
 
 ### 4. Create Visualizations
-There are a lot of chart types provided by Power BI. In this tutorial, We will create 6 visualizations. 
+There are a lot of chart types provided by Power BI. In this tutorial, We will create 5 visualizations. 
 
 #### 1. Card Visualizations
 A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate
@@ -132,6 +132,9 @@ A table visualization is the most straightforward and flexible visual. It looks 
 Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop
 
 - Hover your cursor over the visualization icon as shown below, then click it.
+<img width="371" height="513" alt="image" src="https://github.com/user-attachments/assets/77a34fa4-1924-4c6c-9dab-bd7a66de8886" />
+
+- Drag the data field as shown in picture below
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
 
 
