@@ -6,7 +6,7 @@ In addition, we will learn how to build some charts using several types of Power
 
 By the end of this tutorial, our dashboard will look like this:
 
-<img width="1248" height="614" alt="image" src="https://github.com/user-attachments/assets/5a0ef827-b4c5-42b7-84b0-5501b636644f" />
+<img width="1048" height="614" alt="image" src="https://github.com/user-attachments/assets/5a0ef827-b4c5-42b7-84b0-5501b636644f" />
 
 
 ## Table of Contents
