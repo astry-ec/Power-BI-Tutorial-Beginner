@@ -39,9 +39,9 @@ Before we begin this tutorial, make sure you have:
 
 ### 1. Download the sample dataset
    
-- Go to the data folder
-- Locate the "tutorial recruitment data.xlsx" file
-- Download the file
+- Download below file
+[tutorial recruitment data.xlsx](https://github.com/user-attachments/files/31510832/tutorial.recruitment.data.xlsx)
+
 
 ### 2. Import the data into Power BI
 
