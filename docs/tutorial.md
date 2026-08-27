@@ -159,7 +159,6 @@ In this part, we will learn how to format the dashboard page and its visualizati
 <p>&nbsp;</p>
 
 #### 1. Format Page
-<p>&nbsp;</p>
 The dashboard page has default aspect ration of 16:9 (1920 x 1080). However, if our visualizations require more space for our visualizations, we customize the page dimensions. 
 
 Default size
