@@ -127,6 +127,13 @@ Full documentation of Line Chart : https://learn.microsoft.com/en-us/power-bi/pa
 - Power BI will automatically break down StatusDate into Year, Quarter, Month, and Day. The line chart will display the highest level of the StatusDate hierarchy: Year. Since our data contains only the year 2026, the line chart shows just a single point. To change the X-axis to months, we need to remove Year, Quarter, and Day from the X-axis by clicking the "x" icon. The chart will change the display as below
 <img width="991" height="495" alt="image" src="https://github.com/user-attachments/assets/ff14fec9-744f-4734-aef6-d4e3b9569ae4" />
 
+#### 5. Table Visualizations
+A table visualization is the most straightforward and flexible visual. It looks exactly like a standard table consisting of columns and rows, and, any necessary columns can be added. 
+Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop
+
+- Hover your cursor over the visualization icon as shown below, then click it.
+<img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
+
 
 
 
