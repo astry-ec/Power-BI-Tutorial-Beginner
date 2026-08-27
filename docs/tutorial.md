@@ -174,6 +174,22 @@ In this chart, we will add title for X-axis and change maximum number of Y-axis
 
 
 #### 3. Create Slicer
+Slicer is one of visualizations which can be functioned as a filter of the page. 
+
+
+- Hover your cursor over the visualization icon as shown below, then click it.
+<img width="365" height="516" alt="image" src="https://github.com/user-attachments/assets/d40a3c28-f6a2-4db6-ae93-c247e73cd416" />
+
+- Drag Source_name to Values field as below
+<img width="715" height="526" alt="image" src="https://github.com/user-attachments/assets/4bf1c081-324b-4841-820e-fa7cfe638cc9" />
+
+At this point, our dashboard should look like the image below. When no value is selected in the Source Name slicer in the upper-right corner, the dashboard displays data from all sources (Image 1). After we select "JobStreet", the dashboard updates to display only data from the "JobStreet" source (Image 2).
+Image 1
+<img width="1318" height="810" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
+
+Image 2
+<img width="1323" height="809" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
+
 #### 4. Dashboard Page Finishing
 Add Title
 
