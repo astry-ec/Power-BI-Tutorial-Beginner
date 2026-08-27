@@ -45,14 +45,15 @@ In this tutorial, we will learn basic DAX calculations that we need to build our
 
 Go to **Modeling** -> **New Measure**. We will create 3 measures for this dashboard. You can directly copy the formula below into "measure" pane
 
-a. Total Applicants
+#### a. Total Applicants
 ```text
 Total Applicants = DISTINCTCOUNT(Recruitment_Data[ApplicationID])
 ```
 <p>&nbsp;</p>
 <img width="900" height="183" alt="image" src="https://github.com/user-attachments/assets/88b7bd1d-2eb2-464e-a555-de23b2b0bca0" />
 <p>&nbsp;</p>
-b. Total Hired
+
+#### b. Total Hired
 
 ```text
 Total Hired = 
@@ -64,7 +65,8 @@ CALCULATE (
 <p>&nbsp;</p>
 <img width="896" height="251" alt="image" src="https://github.com/user-attachments/assets/fc9a1ab5-7f7f-4b0a-9e2a-d7f3ff5f3437" />
 <p>&nbsp;</p>
-c. Hire Rate
+
+#### c. Hire Rate
 
 ```text
 Hire Rate = DIVIDE([Total Hired], [Total Applicants])
@@ -78,4 +80,21 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 <p>&nbsp;</p>
 
 ### 4. Create Visualizations
-There are a lot of chart types provided by Power BI. In this tutorial, We will create Card,  
+There are a lot of chart types provided by Power BI. In this tutorial, We will create 6 visualizations. 
+
+#### 1. Card Visualizations.
+This card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate
+full documentation of Card Visualizations : https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-card
+
+- Hover over visualization icon as below and click
+<img width="454" height="649" alt="image" src="https://github.com/user-attachments/assets/1ad8f560-a042-412f-90f4-0199430cee45" />
+
+- Drag Total Applicants, Total Hired, and Hire Rate to Values field
+<img width="1060" height="619" alt="image" src="https://github.com/user-attachments/assets/d29d0584-44a9-4bde-bfc6-638cb356d550" />
+
+- Card visual appears with the 3 measures added.
+
+
+
+
+
