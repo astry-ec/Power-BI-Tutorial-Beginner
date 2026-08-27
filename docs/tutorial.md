@@ -138,10 +138,20 @@ Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/po
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
 
 ### 5. Format Page and Visualizations
-In this part, we will learn to change format of page and visualizations. In addition, we will also learn to add slicers to make dashboard page navigation easier.
+We have created visualizations, and to make the dashboard more engaging and dynamic, we will explore the formatting features in Power BI.
+In this part, we will learn how to format the dashboard page and its visualizations. In addition, we will also learn to add slicers to make dashboard filtering easier.
 
 #### 1. Format Page
-There are 
+The dashboard page has default size 16:9 (1920 x 1080). However, if our visualizations need more than default page size, we are able to adjust the page size based on our needs. 
+
+Default size
+<img width="401" height="640" alt="image" src="https://github.com/user-attachments/assets/c28ef192-1953-4b06-b2ab-413d5ef82265" />
+
+Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
+<img width="375" height="485" alt="image" src="https://github.com/user-attachments/assets/7c36625d-cafe-4416-8804-4624aedf5975" /> <img width="362" height="664" alt="image" src="https://github.com/user-attachments/assets/3d6242fb-6b4e-441e-8192-6c1fff5ef2ea" />
+
+
+
 
 #### 2. Format Visual
 #### 3. Create Slicer
