@@ -110,7 +110,6 @@ Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/
 <img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
 
 #### 3. Pie Chart Visualizations
-<p>&nbsp;</p>
 A pie chart displays data as a proportion of a metric. In this tutorial, we will use the proportion of total applicants to job vacancy sources as the metric.
 <p>&nbsp;</p>
 Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/pie-charts-report-builder
