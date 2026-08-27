@@ -101,8 +101,21 @@ Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/
 - Hover your cursor over the visualization icon as shown below, then click it.
 <img width="360" height="507" alt="image" src="https://github.com/user-attachments/assets/17932787-746d-4236-ba68-0e04731f82ca" />
 
-- Drag Job Title to X-Axis. Then, Total Applicants and Total Hire to Y-Axis.
+- Drag Job_Title to X-Axis. Then, Total Applicants and Total Hire to Y-Axis.
 <img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
+
+#### 3. Pie Chart Visualizations
+A pie chart displays data as a proportion of a metric. In this tutorial, we will use the proportion of total applicants to job vacancy sources as the metric.
+Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/pie-charts-report-builder
+
+- Hover your cursor over the visualization icon as shown below, then click it.
+<img width="362" height="524" alt="image" src="https://github.com/user-attachments/assets/5fab2fb8-a5ed-4da5-82de-0cf5c5fb7e90" />
+
+- Drag Source_Name to Legend field. Then, Total Applicants to Values field.
+<img width="842" height="493" alt="image" src="https://github.com/user-attachments/assets/be169867-8329-439e-b583-58e782842743" />
+
+
+
 
 
 
