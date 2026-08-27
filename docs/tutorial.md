@@ -4,6 +4,11 @@
 In this tutorial, we will learn step by step how to build Power BI Dashboard with Excel file as the data source. Along the way we will also learn how to create DAX measures and calculated columns to get the required KPI data.
 In addition, we will learn how to build some charts using several types of Power BI chart and creating slicer to narrow down the data.
 
+By the end of this tutorial, our dashboard will look like this:
+
+<img width="1248" height="614" alt="image" src="https://github.com/user-attachments/assets/5a0ef827-b4c5-42b7-84b0-5501b636644f" />
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
