@@ -137,6 +137,16 @@ Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/po
 - Drag the data field as shown in picture below
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
 
+### 5. Format Page and Visualizations
+In this part, we will learn to change format of page and visualizations. In addition, we will also learn to add slicers to make dashboard page navigation easier.
+
+#### 1. Format Page
+There are 
+
+#### 2. Format Visual
+#### 3. Create Slicer
+#### 4. Dashboard Page Finishing
+
 
 
 
