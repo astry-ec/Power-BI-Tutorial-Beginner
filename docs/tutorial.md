@@ -190,6 +190,8 @@ Image 1
 Image 2
 <img width="1323" height="809" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
 
+To clear the filter and display all data again, click "JobStreet" again.
+
 #### 4. Dashboard Page Finishing
 Add Title
 
