@@ -83,20 +83,29 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 There are a lot of chart types provided by Power BI. In this tutorial, We will create 6 visualizations. 
 
 #### 1. Card Visualizations
-This card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate
+A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate
 full documentation of Card Visualizations : https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-card
 
-- Hover over visualization icon as below and click
+- Hover your cursor over the visualization icon as shown below, then click it.
 <img width="454" height="649" alt="image" src="https://github.com/user-attachments/assets/650910a2-43ed-4e53-8b23-078f73bf9b70" />
 
-- Drag Total Applicants, Total Hired, and Hire Rate to Values field
+- Drag Total Applicants, Total Hired, and Hire Rate to Values field.
 <img width="1060" height="619" alt="image" src="https://github.com/user-attachments/assets/d29d0584-44a9-4bde-bfc6-638cb356d550" />
 
 - Card visual appears with the 3 measures added.
 
-#### 2. Clustered Column Chart Visualizations
+#### 2. Column Chart Visualizations
+Column charts display data as vertical bars that can be grouped by category. Power BI offers several types of column charts. In this tutorial, we will use a *Clustered column chart* to display the Total Applicants and Total Hired Employees by Job Category.
+Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/column-charts-report-builder
 
-https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart?tabs=powerbi-desktop
+- Hover your cursor over the visualization icon as shown below, then click it.
+<img width="360" height="507" alt="image" src="https://github.com/user-attachments/assets/17932787-746d-4236-ba68-0e04731f82ca" />
+
+- Drag Job Title to X-Axis. Then, Total Applicants and Total Hire to Y-Axis.
+<img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
+
+
+
 
 
 
