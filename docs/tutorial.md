@@ -114,6 +114,20 @@ Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/pag
 - Drag Source_Name to Legend field. Then, Total Applicants to Values field.
 <img width="842" height="493" alt="image" src="https://github.com/user-attachments/assets/be169867-8329-439e-b583-58e782842743" />
 
+#### 4. Line Chart Visualizations
+A line chart displays data changes over time. In this tutorial, we will use data on the total number of applicants of each month.
+Full documentation of Line Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/line-charts-report-builder
+
+- Hover your cursor over the visualization icon as shown below, then click it.
+<img width="371" height="527" alt="image" src="https://github.com/user-attachments/assets/1b02069d-aa25-40a6-bc07-766850952a5c" />
+
+- Drag StatusDate to X-axis and Total Applicants to Y-axis
+<img width="988" height="555" alt="image" src="https://github.com/user-attachments/assets/a3999ef9-a02e-4257-91d5-8cd78b5b820f" />
+
+- Power BI will automatically break down StatusDate into Year, Quarter, Month, and Day. The line chart will display the highest level of the StatusDate hierarchy: Year. Since our data contains only the year 2026, the line chart shows just a single point. To change the X-axis to months, we need to remove Year, Quarter, and Day from the X-axis by clicking the "x" icon. The chart will change the display as below
+<img width="991" height="495" alt="image" src="https://github.com/user-attachments/assets/ff14fec9-744f-4734-aef6-d4e3b9569ae4" />
+
+
 
 
 
