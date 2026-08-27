@@ -83,13 +83,16 @@ After creating all measures data, we can find the measures in Recruitment_Data T
 There are a lot of chart types provided by Power BI. In this tutorial, We will create 5 visualizations. 
 <p>&nbsp;</p>
 #### 1. Card Visualizations
-A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate
+A card displays only a number, which is a best practice for showing a single key metric. Each card displays a pre-defined measure. For this example, we will use measure : Total Applicants, Total Hired and Hire Rate.
+<p>&nbsp;</p>
 full documentation of Card Visualizations : https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-card
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="454" height="649" alt="image" src="https://github.com/user-attachments/assets/650910a2-43ed-4e53-8b23-078f73bf9b70" />
 <p>&nbsp;</p>
 - Drag Total Applicants, Total Hired, and Hire Rate to Values field.
+<p>&nbsp;</p>
 <img width="1060" height="619" alt="image" src="https://github.com/user-attachments/assets/d29d0584-44a9-4bde-bfc6-638cb356d550" />
 <p>&nbsp;</p>
 - Card visual appears with the 3 measures added.
@@ -99,32 +102,42 @@ Column charts display data as vertical bars that can be grouped by category. Pow
 Full documentation of Column Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/column-charts-report-builder
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="360" height="507" alt="image" src="https://github.com/user-attachments/assets/17932787-746d-4236-ba68-0e04731f82ca" />
 <p>&nbsp;</p>
 - Drag Job_Title to X-Axis. Then, Total Applicants and Total Hire to Y-Axis.
+<p>&nbsp;</p>
 <img width="1184" height="490" alt="image" src="https://github.com/user-attachments/assets/4a6b9240-5051-4062-91cd-c61bd8e5db99" />
 <p>&nbsp;</p>
 #### 3. Pie Chart Visualizations
+<p>&nbsp;</p>
 A pie chart displays data as a proportion of a metric. In this tutorial, we will use the proportion of total applicants to job vacancy sources as the metric.
+<p>&nbsp;</p>
 Full documentation of Pie Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/pie-charts-report-builder
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="362" height="524" alt="image" src="https://github.com/user-attachments/assets/5fab2fb8-a5ed-4da5-82de-0cf5c5fb7e90" />
 <p>&nbsp;</p>
 - Drag Source_Name to Legend field. Then, Total Applicants to Values field.
+<p>&nbsp;</p>
 <img width="842" height="493" alt="image" src="https://github.com/user-attachments/assets/be169867-8329-439e-b583-58e782842743" />
 <p>&nbsp;</p>
 #### 4. Line Chart Visualizations
 A line chart displays data changes over time. In this tutorial, we will use data on the total number of applicants of each month.
-Full documentation of Line Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/line-charts-report-builder
+<p>&nbsp;</p>
+Full documentation of Line Chart : https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-design/visualizations/line-charts-report-builder.
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="371" height="527" alt="image" src="https://github.com/user-attachments/assets/1b02069d-aa25-40a6-bc07-766850952a5c" />
 <p>&nbsp;</p>
-- Drag StatusDate to X-axis and Total Applicants to Y-axis
+- Drag StatusDate to X-axis and Total Applicants to Y-axis.
+<p>&nbsp;</p>
 <img width="988" height="555" alt="image" src="https://github.com/user-attachments/assets/a3999ef9-a02e-4257-91d5-8cd78b5b820f" />
 <p>&nbsp;</p>
 - Power BI will automatically break down StatusDate into Year, Quarter, Month, and Day. The line chart will display the highest level of the StatusDate hierarchy: Year. Since our data contains only the year 2026, the line chart shows just a single point. To change the X-axis to months, we need to remove Year, Quarter, and Day from the X-axis by clicking the "x" icon. The chart will change the display as below
+<p>&nbsp;</p>
 <img width="991" height="495" alt="image" src="https://github.com/user-attachments/assets/ff14fec9-744f-4734-aef6-d4e3b9569ae4" />
 <p>&nbsp;</p>
 #### 5. Table Visualizations
@@ -132,9 +145,11 @@ A table visualization is the most straightforward and flexible visual. It looks 
 Full table visualizations: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="371" height="513" alt="image" src="https://github.com/user-attachments/assets/77a34fa4-1924-4c6c-9dab-bd7a66de8886" />
 <p>&nbsp;</p>
 - Drag the data field as shown in picture below
+<p>&nbsp;</p>
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/223d6cb4-bbba-41dd-b189-6a30413dd629" />
 <p>&nbsp;</p>
 ### 5. Format Page and Visualizations
@@ -155,11 +170,12 @@ Go to **Visualizations -> Format Page -> Canvas Settings -> Type**
 Power BI provides various options for formatting visualizations. In this tutorial, we will focus on formatting the legend, title and X-axis and Y-axis labels for Clustered Column Chart.
 
 - Legend
+- <p>&nbsp;</p>
 There are several options for positioning the legend in a visualizations. In this chart, we select Top right. We can also format the font and color, but for now we will leave them as they are
 <img width="1005" height="607" alt="image" src="https://github.com/user-attachments/assets/7095a4a5-d11f-4287-b966-339970d4fdd5" />
 <p>&nbsp;</p>
 - Title
-
+<p>&nbsp;</p>
 To make the chart easier to understand, we need to use clear and readable title. In this chart, we simply remove the underscore (_) from Job_Title in the title and subtitle.
 <img width="1008" height="834" alt="image" src="https://github.com/user-attachments/assets/0010f0a5-290d-40ae-9bb2-103160b8f8c6" />
 <p>&nbsp;</p>
@@ -174,12 +190,15 @@ In this chart, we will add title for X-axis and change maximum number of Y-axis
 Slicer is one of visualizations which can be functioned as a filter of the page. 
 <p>&nbsp;</p>
 - Hover your cursor over the visualization icon as shown below, then click it.
+<p>&nbsp;</p>
 <img width="365" height="516" alt="image" src="https://github.com/user-attachments/assets/d40a3c28-f6a2-4db6-ae93-c247e73cd416" />
 <p>&nbsp;</p>
 - Drag Source_name to Values field as below
+<p>&nbsp;</p>
 <img width="715" height="526" alt="image" src="https://github.com/user-attachments/assets/4bf1c081-324b-4841-820e-fa7cfe638cc9" />
 <p>&nbsp;</p>
 At this point, our dashboard should look like the image below. When no value is selected in the Source Name slicer in the upper-right corner, the dashboard displays data from all sources (Image 1). After we select "JobStreet", the dashboard updates to display only data from the "JobStreet" source (Image 2).
+<p>&nbsp;</p>
 Image 1
 <img width="1318" height="810" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
 <p>&nbsp;</p>
@@ -192,16 +211,20 @@ To clear the filter and display all data again, click "JobStreet" again.
 After preparing the data, creating the visualizations, and formatting them, we come to the final step: improving the appearance of our dashboard. Here are some best practices we can follow.
 <p>&nbsp;</p>
 - Add a dashboard title using a text box.
+<p>&nbsp;</p>
 <img width="1450" height="935" alt="image" src="https://github.com/user-attachments/assets/6b25d686-d325-4831-9df5-f6f8f2b84eed" />
 <p>&nbsp;</p>
 Select all the text, then choose the desired font size.
+<p>&nbsp;</p>
 <img width="844" height="231" alt="image" src="https://github.com/user-attachments/assets/3b9aa7b8-149c-4d70-9a31-aebb198e6b93" />
 <p>&nbsp;</p>
 - Add rectangle shapes to organize and separate the visualizations.
+<p>&nbsp;</p>
 This step is optional. You can add a background shape to give your dashboard a webpage-like appearance and choose any color you prefer.
 <img width="1502" height="932" alt="image" src="https://github.com/user-attachments/assets/dcf76e81-0934-412a-8ab2-5054a148d47e" />
 <p>&nbsp;</p>
 - Select a theme from the View pane. You can choose any theme you prefer.
+<p>&nbsp;</p>
 <img width="1530" height="947" alt="image" src="https://github.com/user-attachments/assets/4c528bb1-2027-481d-889b-bb9a14af415a" />
 <p>&nbsp;</p>
 
