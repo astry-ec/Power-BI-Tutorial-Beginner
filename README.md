@@ -1,5 +1,3 @@
-# Power-BI-Tutorial-Beginner
-
 # Build Your First Recruitment Dashboard in Power BI
 
 A beginner-friendly tutorial for building a recruitment dashboard in Power BI using an Excel file as the data source.
