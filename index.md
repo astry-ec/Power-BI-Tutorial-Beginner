@@ -228,10 +228,10 @@ Slicer is one of visualizations which can be functioned as a filter of the page.
 At this point, our dashboard should look like the image below. When no value is selected in the Source Name slicer in the upper-right corner, the dashboard displays data from all sources (Image 1). After we select "JobStreet", the dashboard updates to display only data from the "JobStreet" source (Image 2).
 <p>&nbsp;</p>
 Image 1
-<img width="1318" height="810" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
+<img width="1318" height="710" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
 <p>&nbsp;</p>
 Image 2
-<img width="1323" height="809" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
+<img width="1323" height="709" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
 <p>&nbsp;</p>
 To clear the filter and display all data again, click "JobStreet" again.
 
