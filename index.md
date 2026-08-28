@@ -228,10 +228,10 @@ Slicer is one of visualizations which can be functioned as a filter of the page.
 At this point, our dashboard should look like the image below. When no value is selected in the Source Name slicer in the upper-right corner, the dashboard displays data from all sources (Image 1). After we select "JobStreet", the dashboard updates to display only data from the "JobStreet" source (Image 2).
 <p>&nbsp;</p>
 Image 1
-<img width="1318" height="710" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
+<img width="1318" height="610" alt="image" src="https://github.com/user-attachments/assets/af75f190-35c8-421a-ac22-f9d368a804ea" />
 <p>&nbsp;</p>
 Image 2
-<img width="1323" height="709" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
+<img width="1323" height="609" alt="image" src="https://github.com/user-attachments/assets/960a9bc6-f57c-43b0-bee7-ed2ef5ba7b24" />
 <p>&nbsp;</p>
 To clear the filter and display all data again, click "JobStreet" again.
 
@@ -240,7 +240,7 @@ After preparing the data, creating the visualizations, and formatting them, we c
 <p>&nbsp;</p>
 - Add a dashboard title using a text box.
 <p>&nbsp;</p>
-<img width="1450" height="935" alt="image" src="https://github.com/user-attachments/assets/6b25d686-d325-4831-9df5-f6f8f2b84eed" />
+<img width="1450" height="735" alt="image" src="https://github.com/user-attachments/assets/6b25d686-d325-4831-9df5-f6f8f2b84eed" />
 <p>&nbsp;</p>
 Select all the text, then choose the desired font size.
 <p>&nbsp;</p>
